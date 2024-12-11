@@ -31,7 +31,7 @@ This project features a website divided into three main sections:
 The website consists of the following files:
 
 1. **Main File**:
-   - `week2.html`: The main file containing the structure and layout of the website.
+   - `week 2.html`: The main file containing the structure and layout of the website.
 
 2. **Linked Pages**:
    - `home.html`: Displays the home page content.
